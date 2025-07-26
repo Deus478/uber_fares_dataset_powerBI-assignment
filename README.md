@@ -2,31 +2,32 @@
 🚗 Project Overview
 This project involves a comprehensive analysis of the Uber Fares Dataset, aiming to uncover key insights related to fare behavior, ride trends, and overall service efficiency. The data was first preprocessed and enriched using Python, then visualized through dynamic and interactive dashboards built in Power BI.
 
-🎯 Project Objectives
-To examine patterns in Uber fares, ride durations, and time-based trends
+# 🎯 Project Objectives
 
-To engineer new analytical variables such as hour, day, and time-based classifications
+.To examine patterns in Uber fares, ride durations, and time-based trends
 
-To design an interactive Power BI dashboard that effectively visualizes key metrics and insights
+.To engineer new analytical variables such as hour, day, and time-based classifications
 
-🚗 Ride Trends
+.To design an interactive Power BI dashboard that effectively visualizes key metrics and insights
+
+# 🚗 Ride Trends
    .By Hour
    .By Day
    .By Month
 
-💵 Fare Distribution Visuals
+# 💵 Fare Distribution Visuals
 
 .Histograms for observing fare frequency across price ranges
 .Box plots to identify outliers and fare variability
 .Pie charts to illustrate the proportional distribution of fare categories
 
-🌦️ Seasonal & 🌍 Geographic Insights
+# 🌦️ Seasonal & 🌍 Geographic Insights
 
 .Identify peak ride periods across different seasons and locations.
 .Explore potential correlations between weather conditions and ride activity (if data available).
 .Communicate findings through data-driven storytelling to support strategic decision-making.
 
-🔍 Methodology
+# 🔍 Methodology
 🗃️ 1. Data Acquisition
 The Uber Fares dataset was sourced from Kaggle, containing key variables such as:
 
@@ -36,7 +37,7 @@ Pickup timestamps
 
 Pickup and drop-off geolocations
 
-🧹 2. Data Cleaning (Using Python)
+# 🧹 2. Data Cleaning (Using Python)
 Performed thorough data cleaning and preprocessing in Python to handle missing values, remove anomalies, and prepare the dataset for analysis.
 ..Pandas was used for inspection and loading
 .python
