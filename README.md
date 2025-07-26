@@ -215,7 +215,7 @@ New time-based features such as hour, day, and weekday improved the depth of ana
 .Interactive Dashboard Value:
 The Power BI dashboard, enhanced with slicers, filters, and drill-downs, allowed users to explore data at multiple granularities—by time, location, or fare category—offering an intuitive, data-driven storytelling experience.
 
-✅ Key Results
+# ✅ Key Results
 .Ride Demand Peaks
 Peak ride volumes occurred during morning (7–9 AM) and evening (5–9 PM) hours, indicating high commuter traffic.
 
@@ -237,36 +237,36 @@ Consistent ride activity was seen across months, with some seasonal variation in
 .Enhanced Interactivity
 The Power BI dashboard incorporated slicers, filters, and drill-down capabilities, enabling users to explore insights by hour, day, location, and fare range.
 
-🏁 Conclusion
+# 🏁 Conclusion
 
 This project successfully demonstrated how combining Python and Power BI can turn raw transportation data into meaningful business intelligence. By cleaning, enriching, and analyzing the Uber Fares dataset, we uncovered key operational patterns related to fare distribution, ride demand, and geographic usage.
 
 The interactive dashboard provides a user-friendly platform for ongoing data exploration, supporting data-driven decisions such as optimizing driver allocation, refining pricing strategies, and understanding customer demand behavior.
 
-📌 Recommendations: 
+# 📌 Recommendations: 
 
 Data-Driven Business Strategies
 Based on the insights gathered from the Uber Fares dataset and the interactive Power BI dashboard, the following recommendations are suggested to enhance service performance and operational decision-making:
 
-🚕 1. Align Driver Supply with Peak Ride Demand
+# 🚕 1. Align Driver Supply with Peak Ride Demand
 Increase driver presence during high-demand hours, specifically 7:00–9:00 AM and 5:00–7:00 PM, to meet peak commuting needs, minimize rider wait times, and reduce the likelihood of missed ride opportunities.
 
-📅 2. Promote Targeted Weekend Offers
+# 📅 2. Promote Targeted Weekend Offers
 Introduce special discounts or bundled ride promotions on Fridays and Saturdays, leveraging increased weekend activity to drive higher customer engagement and ride volume.
 
-✈️ 3. Establish Transparent Airport Fare Options
+# ✈️ 3. Establish Transparent Airport Fare Options
 Implement flat-rate or standardized fare options for airport trips to improve fare transparency, reduce rider uncertainty, and build long-term trust in airport transportation services.
 
-🗺️ 4. Strengthen Driver Coverage in High-Demand Areas
+# 🗺️ 4. Strengthen Driver Coverage in High-Demand Areas
 Deploy additional driver resources in Midtown and Lower Manhattan, where ride requests consistently spike, to ensure better service availability and quicker response times.
 
-🌦️ 5. Prepare for Seasonal Fluctuations
+# 🌦️ 5. Prepare for Seasonal Fluctuations
 Monitor and respond to seasonal increases in demand, particularly during summer months, by offering seasonal incentives or flexible schedules to maintain sufficient driver supply.
 
-🕒 6. Encourage Off-Peak Utilization
+# 🕒 6. Encourage Off-Peak Utilization
 Introduce fare discounts during off-peak hours to encourage ride activity in lower-demand time slots, helping balance workload and maintain steady revenue flows throughout the day.
 
-📊 7. Enhance Fare Estimation Accuracy
+# 📊 7. Enhance Fare Estimation Accuracy
 Utilize distance-based fare patterns uncovered during analysis to improve fare estimation models, allowing for more accurate, transparent pricing and better-informed ride decisions for customers.
 
 
